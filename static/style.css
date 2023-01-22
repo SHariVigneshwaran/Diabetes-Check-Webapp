@@ -1,0 +1,38 @@
+.left{
+    margin-left:auto;
+    margin-top:auto;
+    margin-bottom:auto;
+    width: 25%;
+    padding-top:10%;
+    }
+    label{
+      width:150px;
+      display:inline-block;
+      font-family:Vujahday Script;
+      font-size: larger;
+    }
+    input[type="text"]{
+      display:inline-block;
+    }
+    input[type="submit"]{
+      margin-left:7rem;
+      background-color: green;
+      color:white;
+      border: 0.1rem;
+      border-radius:0.3rem;
+      font-size:large;
+      padding:0.5rem;
+      cursor:pointer;
+      font-family: PT Serif;
+    }
+    h1{
+      padding-left: 2rem;
+      font-family: PT Serif;
+    }
+    body{
+      background-image: url("https://img.freepik.com/free-photo/young-doctor-supporting-his-patient_1098-2237.jpg?w=2000");
+      background-size: cover;
+    }
+    #res{
+      font-family: PT Serif;
+    }
